@@ -4,4 +4,11 @@
   margin-top: -100px;
   background-image: url("../../assets/1_718Rp957TTYXCMegVIUK7g.jpeg");
   background-repeat: no-repeat;
+
+}
+.font-slider-text {
+  text-align: center;
+  color: black;
+/*  margin-top: 80%;*/
+
 }
