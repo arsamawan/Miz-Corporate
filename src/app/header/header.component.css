@@ -18,7 +18,7 @@ body {
 
 .header a {
   float: left;
-  color: black;
+  color: whitesmoke;
   text-align: center;
   padding: 12px;
   text-decoration: none;
@@ -28,17 +28,19 @@ body {
 }
 
 .header a.logo {
-  font-size: 25px;
+  font-size: 2vw;
   font-weight: bold;
+  color: #dddddd;
+  padding-left: 3%;
 }
 
 .header a:hover {
-  background-color: #ddd;
+  background-color: #558DE8;
   color: black;
 }
 
 .header a.active {
-  background-color: dodgerblue;
+  background-color: #558DE8;
   color: white;
 }
 
