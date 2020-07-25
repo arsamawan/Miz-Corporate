@@ -3,22 +3,32 @@
   height: 700px;
   margin-top: -100px;
   background-image: url("../../assets/blue-technology-circle-and-computer-abstract-vector-22953449.jpg");
-
 }
 .font-slider-text {
   text-align: center;
   color: whitesmoke;
-  margin-bottom:320px ;
+  margin-bottom:250px ;
   margin-top: -400px;
-
-
-}
-div img {
-  width: 200px;
-  height: 100px;
-  margin-left: 20%;
+  font-size: 1.5vw;
 }
 input{
   margin-left:30%;
   margin-top:5%;
+}
+.service-main{
+  height: 20vh;
+}
+.service-main h1{
+  padding-left: 50%;
+}
+.service-main div {
+  float: left;
+  padding-left: 25%;
+}
+.service-main img{
+  width: 150px;
+  height: 90px;
+}
+.service-main ul li {
+  font-size: large;
 }
