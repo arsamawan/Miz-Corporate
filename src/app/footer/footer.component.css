@@ -1,11 +1,13 @@
 .main-footer-div{
-  height: 10vh;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+  width:auto;
 
 }
 .footermain{
   width: 100%;
-  height: 8vh;
-  float: left;
+
 
 }
 .footermain div {
@@ -13,15 +15,19 @@
   height: 100%;
 }
 
-
-
-
-
-
-
-
+.our-services{
+  float: left;
+}
+.calligraphy{
+  float: left;
+  margin-top: 4%;
+}
+.about-us{
+  float: right;
+}
 
 .copyrights{
-  margin-bottom: 0;
-  height: 2vh;
+  margin-bottom: 0px;
+  bottom: 0;
+
 }
