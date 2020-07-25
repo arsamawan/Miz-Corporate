@@ -66,17 +66,24 @@ input{
 #message{
  width: 450px;
   margin-left: 40%;
-  margin-top:5%;
+  margin-top:15%;
   padding:8px;
   display:block;
   border:none;
   border-bottom:1px solid #ccc;
   background-color: #558DE8;
-  float: left;
+  /*float: left;*/
   color: whitesmoke;
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: whitesmoke;
   opacity: 1; /* Firefox */
+}
+button{
+margin-left: 40%;
+  width: 450px;
+  background-color: #4d6cbf;
+  height: 5vh;
+  color: #dddddd;
 }
