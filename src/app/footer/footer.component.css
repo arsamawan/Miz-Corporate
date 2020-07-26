@@ -1,12 +1,14 @@
 .main-footer-div{
   margin-left:auto;
   margin-right:auto;
-  height:auto;
-  width:auto;
+  width:100%;
+  height: 20vh;
+  background-color: #f7f7f7;
 
 }
 .footermain{
   width: 100%;
+  height: 18vh;
 
 
 }
@@ -29,5 +31,6 @@
 .copyrights{
   margin-bottom: 0px;
   bottom: 0;
+  height: 2vh;
 
 }
