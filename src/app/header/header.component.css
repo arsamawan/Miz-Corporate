@@ -30,12 +30,12 @@
 }
 
 .header a:hover {
-  background-color: #558DE8;
+  background-color: #0461c4;
   color: black;
 }
 
 .header a.active {
-  background-color: #558DE8;
+  background-color: #0461c4;
   color: white;
 }
 

@@ -44,7 +44,7 @@
 .contact-us{
   height: 500px;
   width: 100%;
-  background-color: #558DE8;
+  background-color:#0461c4;
 
 }
 .contact-us h1{
@@ -58,7 +58,7 @@ input{
   display:block;
   border:none;
   border-bottom:1px solid #ccc;
-  background-color: #558DE8;
+  background-color: #0461c4;
   float: left;
   color: whitesmoke;
 
@@ -71,8 +71,7 @@ input{
   display:block;
   border:none;
   border-bottom:1px solid #ccc;
-  background-color: #558DE8;
-  /*float: left;*/
+  background-color: #0461c4;
   color: whitesmoke;
 }
 
@@ -83,7 +82,7 @@ input{
 button{
 margin-left: 40%;
   width: 450px;
-  background-color: #4d6cbf;
+  background-color: #03478f;
   height: 5vh;
   color: #dddddd;
 }
