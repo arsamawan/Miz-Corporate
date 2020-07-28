@@ -54,3 +54,20 @@
   }
 }
 
+
+/*
+Responsiveness for Laptops*/
+@media screen and (max-width: 1632px) {}
+@media screen and (max-width: 1536px) {}
+@media screen and (max-width: 1440px) {}
+@media screen and (max-width: 1344px) {}
+
+/*Responsiveness for Tablets*/
+@media screen and (max-width: 1024px) {}
+@media screen and (max-width: 770px) {}
+
+
+/*Responsiveness for Phones*/
+@media screen and (max-width: 375px) {}
+@media screen and (max-width: 414px) {}
+@media screen and (max-width: 360px) {}

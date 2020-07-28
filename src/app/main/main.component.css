@@ -16,6 +16,7 @@
 }
 .service-main h1{
   padding-left: 45%;
+  padding-top: 1%;
 }
 .service-main div {
   float: left;
@@ -29,15 +30,16 @@
   font-size: large;
 }
 .feedback{
-  height:300px;
+  margin-top: 250px;
+  height:350px;
   background-color: #f7f7f7;
 }
 .feedback h1{
-  margin-top: 12%;
   padding-left: 45%;
+  padding-top: 1.5%;
 }
 .feedback img{
- margin-left: 35%;
+ margin-left: 31%;
   width:680px;
   height: 220px;
 }
@@ -86,3 +88,22 @@ margin-left: 40%;
   height: 5vh;
   color: #dddddd;
 }
+
+
+/*
+Responsiveness for Laptops*/
+@media screen and (max-width: 1632px) {}
+@media screen and (max-width: 1536px) {}
+@media screen and (max-width: 1440px) {}
+@media screen and (max-width: 1344px) {}
+
+/*Responsiveness for Tablets*/
+@media screen and (max-width: 1024px) {}
+@media screen and (max-width: 770px) {}
+
+
+/*Responsiveness for Phones*/
+@media screen and (max-width: 375px) {}
+@media screen and (max-width: 414px) {}
+@media screen and (max-width: 360px) {}
+
