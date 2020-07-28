@@ -63,7 +63,7 @@ input{
   color: whitesmoke;
 
 }
-#message{
+.message{
  width: 450px;
   margin-left: 40%;
   margin-top:15%;
@@ -79,7 +79,7 @@ input{
   color: whitesmoke;
   opacity: 1; /* Firefox */
 }
-button{
+.submit-button{
 margin-left: 40%;
   width: 450px;
   background-color: #03478f;
