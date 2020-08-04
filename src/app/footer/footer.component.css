@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
 .main-footer-div{
   margin-left:auto;
   margin-right:auto;
@@ -13,8 +15,7 @@
 
 }
 .footermain div {
-  width: 33.33%;
-  height: 100%;
+  width: 30%;
 }
 
 .our-services{
@@ -22,6 +23,10 @@
 }
 .calligraphy{
   float: left;
+  font-family: 'Raleway', sans-serif;
+  font-size: 3vw;
+  padding-top: 1%;
+  text-align: center;
 }
 .about-us{
   float: right;
