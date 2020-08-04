@@ -94,8 +94,18 @@ margin-left: 40%;
 Responsiveness for Laptops*/
 @media screen and (max-width: 1632px) {}
 @media screen and (max-width: 1536px) {}
-@media screen and (max-width: 1440px) {}
-@media screen and (max-width: 1344px) {}
+@media screen and (max-width: 1440px) {
+  .font-slider-text {
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom:250px ;
+    margin-top: -400px;
+    font-size: 2vw;
+  }
+}
+@media screen and (max-width: 1344px) {
+/*all css to be in center*/
+}
 
 /*Responsiveness for Tablets*/
 @media screen and (max-width: 1024px) {}
