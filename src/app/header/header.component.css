@@ -22,12 +22,16 @@
   border-radius: 4px;
 }
 
-.header a.logo {
-  font-size: 2vw;
+/*.logo {
+  background-image: url("../../assets/images.jpg");
+  height: 287px;
+  width: 343px;
+  padding: 1%;
+!*  font-size: 2vw;
   font-weight: bold;
   color: #dddddd;
-  padding-left: 3%;
-}
+  padding-left: 3%;*!
+}*/
 
 .header a:hover {
   background-color: #0461c4;
