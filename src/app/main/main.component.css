@@ -104,12 +104,20 @@ Responsiveness for Laptops*/
   }
 }
 @media screen and (max-width: 1344px) {
-/*all css to be in center*/
+  .feedback{
+    margin-top: 270px;
+    height:330px;
+    background-color: #f7f7f7;
+  }
 }
 
 /*Responsiveness for Tablets*/
-@media screen and (max-width: 1024px) {}
-@media screen and (max-width: 770px) {}
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 770px) {
+
+}
 
 
 /*Responsiveness for Phones*/
