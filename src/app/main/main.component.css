@@ -288,19 +288,18 @@ Responsiveness for Laptops*/
   .font-slider-text {
     text-align: center;
     color: whitesmoke;
-    margin-bottom:250px ;
+    margin-bottom:80px ;
     margin-top: -200px;
     font-size: 4.5vw;
   }
   .service-main{
-    height: 17vh;
+    height: 30vh;
   }
   .service-main h1{
-    padding-left: 15%;
-   /* padding-top: 1%;*/
+    padding-left:22%;
   }
   .service-main div {
-    float: left;
+    text-align: center;
     padding-left: 2%;
   }
   .service-main img{
@@ -311,20 +310,19 @@ Responsiveness for Laptops*/
     font-size: medium;
   }
 
-  /*Continue from here*/
   .feedback{
-    margin-top: 250px;
-    height:350px;
+    margin-top: 270px;
+    height:250px;
     background-color: #f7f7f7;
   }
   .feedback h1{
-    padding-left: 45%;
-    padding-top: 1.5%;
+    padding-left: 5%;
+    padding-top: 2%;
   }
   .feedback img{
-    margin-left: 31%;
-    width:680px;
-    height: 220px;
+    margin-left: 1%;
+    width:350px;
+    height: 130px;
   }
   .contact-us{
     height: 500px;
@@ -333,26 +331,25 @@ Responsiveness for Laptops*/
 
   }
   .contact-us h1{
-    padding-left: 50%;
+    padding-left: 30%;
     color: whitesmoke;
   }
   input{
-    margin-left:30%;
-    margin-top:5%;
-    padding:8px;
+    margin-left:18%;
+    margin-top:6%;
+    padding:12px;
     display:block;
     border:none;
     border-bottom:1px solid #ccc;
     background-color: #0461c4;
-    float: left;
     color: whitesmoke;
 
   }
   .message{
-    width: 450px;
-    margin-left: 40%;
-    margin-top:15%;
-    padding:8px;
+    width: 200px;
+    margin-left: 17%;
+    margin-top:23%;
+    padding:12px;
     display:block;
     border:none;
     border-bottom:1px solid #ccc;
@@ -365,10 +362,10 @@ Responsiveness for Laptops*/
     opacity: 1; /* Firefox */
   }
   .submit-button{
-    margin-left: 40%;
-    width: 450px;
+    margin-left: 19%;
+    width: 200px;
     background-color: #03478f;
-    height: 5vh;
+    height: 6vh;
     color: #dddddd;
   }
 
