@@ -462,5 +462,95 @@ Responsiveness for Laptops*/
     color: #dddddd;
   }
 }
-@media screen and (max-width: 360px) {}
+@media screen and (max-width: 360px) {
+  .background-img {
+    width: 150%;
+    height: 450px;
+    margin-top: -420px;
+    background-image: url("../../assets/blue-technology-circle-and-computer-abstract-vector-22953449.jpg");
+  }
+  .font-slider-text {
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom:80px ;
+    margin-top: -200px;
+    font-size: 4.5vw;
+  }
+  .service-main{
+    height: 30vh;
+  }
+  .service-main h1{
+    padding-left:25%;
+  }
+  .service-main div {
+    text-align: center;
+    padding-left: 2%;
+  }
+  .service-main img{
+    width: 90px;
+    height: 50px;
+  }
+  .service-main ul li {
+    font-size: medium;
+  }
+
+  .feedback{
+    margin-top: 310px;
+    height:220px;
+    background-color: #f7f7f7;
+  }
+  .feedback h1{
+    padding-left: 15%;
+    padding-top: 2%;
+  }
+  .feedback img{
+    margin-left: 1%;
+    width:350px;
+    height: 130px;
+  }
+  .contact-us{
+    height: 500px;
+    width: 100%;
+    background-color:#0461c4;
+
+  }
+  .contact-us h1{
+    padding-left: 30%;
+    color: whitesmoke;
+  }
+  input{
+    margin-left:18%;
+    margin-top:6%;
+    padding:12px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    color: whitesmoke;
+
+  }
+  .message{
+    width: 200px;
+    margin-left: 17%;
+    margin-top:23%;
+    padding:12px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    color: whitesmoke;
+  }
+
+  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: whitesmoke;
+    opacity: 1; /* Firefox */
+  }
+  .submit-button{
+    margin-left: 19%;
+    width: 200px;
+    background-color: #03478f;
+    height: 6vh;
+    color: #dddddd;
+  }
+}
 
