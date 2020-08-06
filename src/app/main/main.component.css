@@ -278,7 +278,101 @@ Responsiveness for Laptops*/
 
 
 /*Responsiveness for Phones*/
+@media screen and (max-width: 414px) {
+  .background-img {
+    width: 150%;
+    height: 450px;
+    margin-top: -420px;
+    background-image: url("../../assets/blue-technology-circle-and-computer-abstract-vector-22953449.jpg");
+  }
+  .font-slider-text {
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom:250px ;
+    margin-top: -200px;
+    font-size: 4.5vw;
+  }
+  .service-main{
+    height: 17vh;
+  }
+  .service-main h1{
+    padding-left: 15%;
+   /* padding-top: 1%;*/
+  }
+  .service-main div {
+    float: left;
+    padding-left: 2%;
+  }
+  .service-main img{
+    width: 90px;
+    height: 50px;
+  }
+  .service-main ul li {
+    font-size: medium;
+  }
+
+  /*Continue from here*/
+  .feedback{
+    margin-top: 250px;
+    height:350px;
+    background-color: #f7f7f7;
+  }
+  .feedback h1{
+    padding-left: 45%;
+    padding-top: 1.5%;
+  }
+  .feedback img{
+    margin-left: 31%;
+    width:680px;
+    height: 220px;
+  }
+  .contact-us{
+    height: 500px;
+    width: 100%;
+    background-color:#0461c4;
+
+  }
+  .contact-us h1{
+    padding-left: 50%;
+    color: whitesmoke;
+  }
+  input{
+    margin-left:30%;
+    margin-top:5%;
+    padding:8px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    float: left;
+    color: whitesmoke;
+
+  }
+  .message{
+    width: 450px;
+    margin-left: 40%;
+    margin-top:15%;
+    padding:8px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    color: whitesmoke;
+  }
+
+  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: whitesmoke;
+    opacity: 1; /* Firefox */
+  }
+  .submit-button{
+    margin-left: 40%;
+    width: 450px;
+    background-color: #03478f;
+    height: 5vh;
+    color: #dddddd;
+  }
+
+}
 @media screen and (max-width: 375px) {}
-@media screen and (max-width: 414px) {}
 @media screen and (max-width: 360px) {}
 
