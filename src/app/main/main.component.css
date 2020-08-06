@@ -113,6 +113,71 @@ Responsiveness for Laptops*/
 
 /*Responsiveness for Tablets*/
 @media screen and (max-width: 1024px) {
+  .service-main h1{
+    padding-left: 45%;
+    padding-top: 2%;
+  }
+  .service-main div {
+    float: left;
+    padding-left: 18%;
+  }
+  .service-main img{
+    width: 130px;
+    height: 80px;
+  }
+  .feedback{
+    margin-top: 270px;
+    height:350px;
+    background-color: #f7f7f7;
+  }
+  .feedback h1{
+    padding-left: 40%;
+    padding-top: 1.5%;
+  }
+  .feedback img{
+    margin-left: 23%;
+    height: 220px;
+  }
+  .contact-us{
+    height: 450px;
+    width: 100%;
+    background-color:#0461c4;
+
+  }
+  .contact-us h1{
+    padding-left: 45%;
+    color: whitesmoke;
+  }
+  input{
+    margin-left:23%;
+    margin-top:6%;
+    padding:8px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    float: left;
+    color: whitesmoke;
+
+  }
+  .message{
+    width: 450px;
+    margin-left: 35%;
+    margin-top:20%;
+    padding:8px;
+    display:block;
+    border:none;
+    border-bottom:1px solid #ccc;
+    background-color: #0461c4;
+    color: whitesmoke;
+  }
+  .submit-button{
+    margin-left: 35%;
+    width: 450px;
+    background-color: #03478f;
+    height: 6vh;
+    color: #dddddd;
+  }
 
 }
 @media screen and (max-width: 770px) {
