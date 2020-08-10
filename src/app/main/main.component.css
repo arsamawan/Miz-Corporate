@@ -198,12 +198,12 @@ Responsiveness for Laptops*/
     height: 20vh;
   }
   .service-main h1{
-    padding-left: 35%;
+    padding-left: 40%;
     padding-top: 2%;
   }
   .service-main div {
     float: left;
-    padding-left: 7%;
+    padding-left: 10%;
   }
   .service-main img{
     width: 120px;
@@ -218,11 +218,11 @@ Responsiveness for Laptops*/
     background-color: #f7f7f7;
   }
   .feedback h1{
-    padding-left: 30%;
+    padding-left: 33%;
     padding-top: 1.5%;
   }
   .feedback img{
-    margin-left: 1%;
+    margin-left: 10%;
     width:600px;
     height: 200px;
   }
@@ -233,11 +233,11 @@ Responsiveness for Laptops*/
 
   }
   .contact-us h1{
-    padding-left: 35%;
+    padding-left: 40%;
     color: whitesmoke;
   }
   input{
-    margin-left:13%;
+    margin-left:17%;
     margin-top:7%;
     padding:10px;
     display:block;
@@ -250,7 +250,7 @@ Responsiveness for Laptops*/
   }
   .message{
     width: 300px;
-    margin-left: 25%;
+    margin-left: 30%;
     margin-top:23%;
     padding:10px;
     display:block;
@@ -265,7 +265,7 @@ Responsiveness for Laptops*/
     opacity: 1; /* Firefox */
   }
   .submit-button{
-    margin-left: 25%;
+    margin-left: 30%;
     width: 300px;
     background-color: #03478f;
     height: 5.5vh;
