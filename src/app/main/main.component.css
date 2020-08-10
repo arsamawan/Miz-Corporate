@@ -372,7 +372,7 @@ Responsiveness for Laptops*/
 }
 @media screen and (max-width: 375px) {
   .background-img {
-    width: 150%;
+    width: 100%;
     height: 450px;
     margin-top: -420px;
     background-image: url("../../assets/blue-technology-circle-and-computer-abstract-vector-22953449.jpg");
@@ -381,18 +381,18 @@ Responsiveness for Laptops*/
     text-align: center;
     color: whitesmoke;
     margin-bottom:80px ;
-    margin-top: -200px;
-    font-size: 4.5vw;
+    margin-top: -150px;
+    font-size: 3vw;
   }
   .service-main{
     height: 30vh;
   }
   .service-main h1{
-    padding-left:25%;
+    padding-left:30%;
   }
   .service-main div {
     text-align: center;
-    padding-left: 2%;
+    padding-left: 10%;
   }
   .service-main img{
     width: 90px;
@@ -403,17 +403,16 @@ Responsiveness for Laptops*/
   }
 
   .feedback{
-    margin-top: 300px;
+    margin-top: 330px;
     height:250px;
     background-color: #f7f7f7;
   }
   .feedback h1{
-    font-size: x-large;
-    padding-left: 15%;
-    padding-top: 5%;
+    padding-left: 10%;
+    padding-top: 6%;
   }
   .feedback img{
-    margin-left: 1%;
+    margin-left: 5%;
     width:350px;
     height: 130px;
   }
@@ -424,11 +423,11 @@ Responsiveness for Laptops*/
 
   }
   .contact-us h1{
-    padding-left: 30%;
+    padding-left: 32%;
     color: whitesmoke;
   }
   input{
-    margin-left:18%;
+    margin-left:22%;
     margin-top:6%;
     padding:12px;
     display:block;
@@ -440,8 +439,8 @@ Responsiveness for Laptops*/
   }
   .message{
     width: 200px;
-    margin-left: 17%;
-    margin-top:23%;
+    margin-left: 20%;
+    margin-top:25%;
     padding:12px;
     display:block;
     border:none;
@@ -455,16 +454,17 @@ Responsiveness for Laptops*/
     opacity: 1; /* Firefox */
   }
   .submit-button{
-    margin-left: 19%;
+    margin-left: 22%;
     width: 200px;
     background-color: #03478f;
     height: 6vh;
     color: #dddddd;
   }
+
 }
 @media screen and (max-width: 360px) {
   .background-img {
-    width: 150%;
+    width: 100%;
     height: 450px;
     margin-top: -420px;
     background-image: url("../../assets/blue-technology-circle-and-computer-abstract-vector-22953449.jpg");
@@ -473,18 +473,18 @@ Responsiveness for Laptops*/
     text-align: center;
     color: whitesmoke;
     margin-bottom:80px ;
-    margin-top: -200px;
-    font-size: 4.5vw;
+    margin-top: -150px;
+    font-size: 3vw;
   }
   .service-main{
     height: 30vh;
   }
   .service-main h1{
-    padding-left:25%;
+    padding-left:30%;
   }
   .service-main div {
     text-align: center;
-    padding-left: 2%;
+    padding-left: 10%;
   }
   .service-main img{
     width: 90px;
@@ -495,16 +495,16 @@ Responsiveness for Laptops*/
   }
 
   .feedback{
-    margin-top: 310px;
-    height:220px;
+    margin-top: 330px;
+    height:250px;
     background-color: #f7f7f7;
   }
   .feedback h1{
-    padding-left: 15%;
-    padding-top: 2%;
+    padding-left: 10%;
+    padding-top: 6%;
   }
   .feedback img{
-    margin-left: 1%;
+    margin-left: 5%;
     width:350px;
     height: 130px;
   }
@@ -515,11 +515,11 @@ Responsiveness for Laptops*/
 
   }
   .contact-us h1{
-    padding-left: 30%;
+    padding-left: 32%;
     color: whitesmoke;
   }
   input{
-    margin-left:18%;
+    margin-left:22%;
     margin-top:6%;
     padding:12px;
     display:block;
@@ -531,8 +531,8 @@ Responsiveness for Laptops*/
   }
   .message{
     width: 200px;
-    margin-left: 17%;
-    margin-top:23%;
+    margin-left: 20%;
+    margin-top:25%;
     padding:12px;
     display:block;
     border:none;
@@ -546,11 +546,12 @@ Responsiveness for Laptops*/
     opacity: 1; /* Firefox */
   }
   .submit-button{
-    margin-left: 19%;
+    margin-left: 22%;
     width: 200px;
     background-color: #03478f;
     height: 6vh;
     color: #dddddd;
   }
+
 }
 
