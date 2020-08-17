@@ -119,8 +119,8 @@ Responsiveness for Laptops*/
   .font-slider-text {
     text-align: center;
     color: whitesmoke;
-    margin-bottom:250px ;
-    margin-top: -400px;
+/*    margin-bottom:250px ;
+    margin-top: -400px;*/
     font-size: 2vw;
   }
 }
