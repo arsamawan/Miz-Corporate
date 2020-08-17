@@ -4,7 +4,9 @@
 }
 .background-img {
   width: 100%;
-  height: 950px;
+  height: 770px;
+  top: 0px;
+  margin-top: -100px;
 /*  margin-top: -270px;*/
   background: linear-gradient(to right , #007bff 10%, #00264f 100%)
 }
@@ -79,7 +81,7 @@ input{
   display:block;
   border:none;
   border-bottom:1px solid #ccc;
-  background-color: #0461c4;
+  background-color: transparent;
   float: left;
   color: whitesmoke;
 
@@ -92,7 +94,7 @@ input{
   display:block;
   border:none;
   border-bottom:1px solid #ccc;
-  background-color: #0461c4;
+  background-color: transparent;
   color: whitesmoke;
 }
 
