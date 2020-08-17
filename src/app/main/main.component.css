@@ -20,12 +20,13 @@
 }
 
 .service-main{
-  height: 500px;
+  height: 350px;
 }
 .service-main-heading{
-  margin-left: 22%;
-  padding-top:2%;
+  margin-left: 48%;
+  padding-top: 2%;
   font-size: 40px;
+  padding-bottom: 3%;
 
 }
 
@@ -44,15 +45,17 @@
 
 .feedback{
   margin-top: 250px;
-  height:350px;
+  height:450px;
   background-color: #f7f7f7;
 }
 .feedback h1{
-  padding-left: 45%;
-  padding-top: 1.5%;
+  margin-left: 45%;
+  padding-top: 2%;
+  font-size: 40px;
+  padding-bottom: 3%;
 }
 .feedback img{
- margin-left: 31%;
+ margin-left: 35%;
   width:680px;
   height: 220px;
 }
