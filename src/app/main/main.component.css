@@ -1,10 +1,13 @@
-@import url('https://fonts.google.com/specimen/Poppins?selection.family=Poppins&sidebar.open=true');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 .background-img {
   width: 100%;
   height: 950px;
 /*  margin-top: -270px;*/
 
   background: linear-gradient(to right , #007bff 10%, #00264f 100%)
+}
+*{
+  font-family: 'Poppins', sans-serif;
 }
 .font-slider-text {
   font-family: sans-serif;
