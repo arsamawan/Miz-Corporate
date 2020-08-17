@@ -60,13 +60,16 @@
   height: 220px;
 }
 .contact-us{
-  height: 500px;
+  height: 700px;
   width: 100%;
-  background-color:#0461c4;
+  background: linear-gradient(to right , #007bff 25%, #00264f 100%)
 
 }
 .contact-us h1{
-  padding-left: 50%;
+  margin-left:48%;
+  padding-top: 2%;
+  font-size: 40px;
+  padding-bottom: 3%;
   color: whitesmoke;
 }
 input{
