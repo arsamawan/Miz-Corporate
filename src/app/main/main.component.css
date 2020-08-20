@@ -31,7 +31,11 @@
   padding-bottom: 3%;
 
 }
-
+.slider-feedback-image{
+  background-image: url("../../assets/review1.PNG");
+  height: 115px;
+  width: 367px;
+}
 .services-ml-ec {
   float: left;
   padding-left: 20%;
@@ -40,6 +44,7 @@
   width: 150px;
   height: 90px;
   background: none;
+  background-image: url("../../assets/kisspng-machine-learning-deep-learning-with-python-artific-cirrascale-cloud-services-deep-learning-classroom-5ca1b3d487e3a2.4562336415541012045566.jpg");
 }
 .service-main ul li {
   font-size: large;
@@ -112,15 +117,16 @@ margin-left: 40%;
 
 
 /*
-Responsiveness for Laptops*/
+!*
+Responsiveness for Laptops*!
 @media screen and (max-width: 1632px) {}
 @media screen and (max-width: 1536px) {}
 @media screen and (max-width: 1440px) {
   .font-slider-text {
     text-align: center;
     color: whitesmoke;
-/*    margin-bottom:250px ;
-    margin-top: -400px;*/
+!*    margin-bottom:250px ;
+    margin-top: -400px;*!
     font-size: 2vw;
   }
 }
@@ -132,7 +138,7 @@ Responsiveness for Laptops*/
   }
 }
 
-/*Responsiveness for Tablets*/
+!*Responsiveness for Tablets*!
 @media screen and (max-width: 1024px) {
   .service-main h1{
     padding-left: 45%;
@@ -281,9 +287,9 @@ Responsiveness for Laptops*/
     color: whitesmoke;
   }
 
-  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  ::placeholder { !* Chrome, Firefox, Opera, Safari 10.1+ *!
     color: whitesmoke;
-    opacity: 1; /* Firefox */
+    opacity: 1; !* Firefox *!
   }
   .submit-button{
     margin-left: 30%;
@@ -298,7 +304,7 @@ Responsiveness for Laptops*/
 }
 
 
-/*Responsiveness for Phones*/
+!*Responsiveness for Phones*!
 @media screen and (max-width: 414px) {
   .background-img {
     width: 100%;
@@ -379,9 +385,9 @@ Responsiveness for Laptops*/
     color: whitesmoke;
   }
 
-  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  ::placeholder { !* Chrome, Firefox, Opera, Safari 10.1+ *!
     color: whitesmoke;
-    opacity: 1; /* Firefox */
+    opacity: 1; !* Firefox *!
   }
   .submit-button{
     margin-left: 22%;
@@ -471,9 +477,9 @@ Responsiveness for Laptops*/
     color: whitesmoke;
   }
 
-  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  ::placeholder { !* Chrome, Firefox, Opera, Safari 10.1+ *!
     color: whitesmoke;
-    opacity: 1; /* Firefox */
+    opacity: 1; !* Firefox *!
   }
   .submit-button{
     margin-left: 22%;
@@ -563,9 +569,9 @@ Responsiveness for Laptops*/
     color: whitesmoke;
   }
 
-  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  ::placeholder { !* Chrome, Firefox, Opera, Safari 10.1+ *!
     color: whitesmoke;
-    opacity: 1; /* Firefox */
+    opacity: 1; !* Firefox *!
   }
   .submit-button{
     margin-left: 22%;
@@ -576,4 +582,5 @@ Responsiveness for Laptops*/
   }
 
 }
+*/
 
