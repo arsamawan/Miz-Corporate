@@ -46,9 +46,9 @@
   line-height: 2;
 }
 
-.service-main{
+/*.service-main{
   height: 350px;
-}
+}*/
 .service-main-heading{
 /*  margin-left: 48%;
   padding-top: 2%;
@@ -68,8 +68,9 @@
   width: 367px;
 }
 .services-ml-ec {
-  float: left;
-  padding-left: 20%;
+/*  float: left;
+  padding-left: 20%;*/
+
 }
 .top {
   width: 100%;
@@ -78,11 +79,33 @@
 .service-logo{
   width: 150px;
   height: 90px;
+
   background: none;
   background-image: url("../../assets/kisspng-machine-learning-deep-learning-with-python-artific-cirrascale-cloud-services-deep-learning-classroom-5ca1b3d487e3a2.4562336415541012045566.jpg");
 }
 .service-main ul li {
   font-size: large;
+}
+.top-text {
+  flex: 4;
+  font-family: $font;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.5em !important;
+  line-height: 1.5;
+  text-align: center;
+  text-transform: uppercase;
+  color: $dark-black;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+/*  float: left;*/
 }
 .ver-lg-3,
 
