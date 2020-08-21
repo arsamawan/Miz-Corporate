@@ -54,10 +54,10 @@
   padding-top: 2%;
   font-size: 40px;
   padding-bottom: 3%;*/
-  align-items: center;
+  /*align-items: center;*/
   text-align: center;
   text-transform: uppercase;
-  margin: 10px auto 10px;
+/*  margin: 10px auto 10px;*/
   font-size: 2.3em;
   /*line-height: 2;*/
 
@@ -83,19 +83,19 @@
   background: none;
   background-image: url("../../assets/kisspng-machine-learning-deep-learning-with-python-artific-cirrascale-cloud-services-deep-learning-classroom-5ca1b3d487e3a2.4562336415541012045566.jpg");
 }
-.service-main ul li {
+/*.service-main ul li {
   font-size: large;
-}
+}*/
 .top-text {
   flex: 4;
-  font-family: $font;
+ /* font-family: $font;*/
   font-style: normal;
   font-weight: 700;
   font-size: 2.5em !important;
   line-height: 1.5;
   text-align: center;
   text-transform: uppercase;
-  color: $dark-black;
+/*  color: $dark-black;*/
 }
 .text-left {
   text-align: left;
@@ -108,12 +108,12 @@
 /*  float: left;*/
 }
 .ver-lg-3,
-
 .ver-sm-6 {
   position: relative;
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+
 }
 
 .feedback{
@@ -187,6 +187,7 @@ margin-left: 40%;
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+
 }
 .bound {
   width: 100%;
@@ -194,6 +195,30 @@ margin-left: 40%;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+}
+@media (min-width: 576px) {
+  .bound {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .bound {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .bound {
+    max-width: 960px;
+  }
+  .deals-desc {
+    width: 50%;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1200px) {
+  .bound {
+    max-width: 1140px;
+  }
 }
 .p10 {
   padding: 10px;
@@ -242,6 +267,21 @@ margin-left: 40%;
 }
 .mb100 {
   margin-bottom: 100px;
+}
+@media (min-width: 576px) {
+  .ver-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .ver-lg-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
 }
 
 /*
