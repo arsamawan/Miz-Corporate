@@ -62,11 +62,24 @@
   /*line-height: 2;*/
 
 }
-.slider-feedback-image{
+.feedback-main-heading{
+  /*  margin-left: 48%;
+    padding-top: 2%;
+    font-size: 40px;
+    padding-bottom: 3%;*/
+  /*align-items: center;*/
+  text-align: center;
+  text-transform: uppercase;
+  /*  margin: 10px auto 10px;*/
+  font-size: 2.3em;
+  /*line-height: 2;*/
+
+}
+/*.feedback-slider-image{
   background-image: url("../../assets/review1.PNG");
   height: 115px;
   width: 367px;
-}
+}*/
 .services-ml-ec {
 /*  float: left;
   padding-left: 20%;*/
@@ -115,11 +128,17 @@
   padding-left: 15px;
 
 }
+.ver-lg-12 {
+   position: relative;
+   width: 100%;
+   padding-right: 10px;
+    align-content: center;
+ }
 
 .feedback{
-  margin-top: 250px;
-  height:450px;
+  height:330px;
   background-color: #f7f7f7;
+  /*align-content: center;*/
 }
 .feedback h1{
   margin-left: 45%;
