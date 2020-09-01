@@ -201,7 +201,7 @@ input{
 
 }
 .message{
- width: 450px;
+ width: 65%;
 /*  margin-left: 40%;
   margin-top:15%;*/
   margin-top: 5%;
@@ -228,11 +228,25 @@ input{
   opacity: 1; /* Firefox */
 }
 .submit-button{
-margin-left: 40%;
+/*margin-left: 40%;*/
   width: 450px;
   background-color: #03478f;
   height: 5vh;
   color: #dddddd;
+/*  margin-right: auto;
+  margin-left: auto;*/
+  margin-top: 5%;
+/*  padding-right: 15px;
+  padding-left: 15px;*/
+  align-content: center;
+  text-align: center;
+/*  margin-left: 30%;*/
+/*  margin-right: 30%;*/
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+
 }
 .hor {
   display: -ms-flexbox;
