@@ -196,7 +196,7 @@ input{
   border:none;
   border-bottom:1px solid #ccc;
   background-color: transparent;
-  float: left;
+/*  float: left;*/
   color: whitesmoke;
 
 }
@@ -213,6 +213,7 @@ input{
   color: whitesmoke;
   align-content: center;
   text-align: center;
+
 
 /*  width: 100%;*/
 /*  padding-right: 15px;
@@ -246,6 +247,7 @@ input{
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 20px;
 
 }
 .hor {
