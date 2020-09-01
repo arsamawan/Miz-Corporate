@@ -248,7 +248,11 @@ input{
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 20px;
+  cursor: pointer;
 
+}
+.submit-button :hover {
+  filter: contrast(130%);
 }
 .hor {
   display: -ms-flexbox;
