@@ -131,25 +131,32 @@
 .ver-lg-12 {
    position: relative;
    width: 100%;
-   padding-right: 10px;
-    align-content: center;
+/*   padding-right: 10px;*/
+   /* align-content: center;*/
  }
 
 .feedback{
   height:330px;
   background-color: #f7f7f7;
   /*align-content: center;*/
+  align-content: center;
+  text-align: center;
 }
-.feedback h1{
+/*.feedback h1{
   margin-left: 45%;
   padding-top: 2%;
   font-size: 40px;
   padding-bottom: 3%;
 }
 .feedback img{
- margin-left: 35%;
+ !*margin-left: 35%;*!
   width:680px;
   height: 220px;
+}*/
+.feedback-image{
+  height: 150px;
+  width: 450px;
+  padding-top: 5%;
 }
 .contact-us{
   height: 700px;
