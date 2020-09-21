@@ -224,7 +224,7 @@ body {
 }
 
 nav {
-  background-color: lightblue;
+  background-color: transparent;
 }
 
 label.logo img {
@@ -242,14 +242,14 @@ nav ul li {
 }
 
 nav ul li a {
-  color: lightblue;
+  color: black;
   font-size: 1em;
   text-transform: uppercase;
   text-decoration: none;
 }
 nav ul li a.active,
 nav ul li a:hover {
-  color: lightcyan;
+  color: red;
   transition: 0.5s;
 }
 .checkbtn {
@@ -281,7 +281,7 @@ nav ul li a:hover {
     position: fixed;
     width: 80%;
     height: 100vh;
-    background: lightcyan;
+    background: lightgrey;
     top: 0;
     left: -100%;
     text-align: center;
@@ -314,15 +314,15 @@ nav ul li a:hover {
   text-transform: uppercase;
   -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
-  -webkit-text-decoration-color: lightblue;
-  text-decoration-color: lightblue;
+  -webkit-text-decoration-color: black;
+  text-decoration-color: black;
   -webkit-text-underline-position: under;
   -ms-text-underline-position: under;
   text-underline-position: under;
-  background: lightgrey;
+  background: black;
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: lightblue;
+  -webkit-text-fill-color: black;
 }
 }
 }
