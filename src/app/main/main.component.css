@@ -102,6 +102,7 @@
 .top {
   width: 100%;
   position: relative;
+  margin-top: 50%;
 }
 .service-logo{
   width: 150px;
