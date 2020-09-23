@@ -344,7 +344,7 @@ $dark-black: rgba(10, 7, 5, 1);
 $error: rgba(232, 0, 0, 1);
 $light-text: rgba(130, 130, 130, 1);
 $dark-text: rgba(51, 51, 51, 1);
-$background: linear-gradient(180deg, $light-brown 50%, $dark-brown 50%);
+$background: linear-gradient(to left, $light-brown 0%, $dark-brown 100%);
 .bound {
   width: 100%;
   padding-right: 15px;
@@ -396,7 +396,7 @@ $background: linear-gradient(180deg, $light-brown 50%, $dark-brown 50%);
 }
 
 nav {
-  background-color: $background;
+  background-color: $light-brown;
 }
 
 label.logo img {
