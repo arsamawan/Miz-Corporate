@@ -178,9 +178,11 @@
   height: 220px;
 }*/
 .feedback-image{
-  height: 150px;
-  width: 450px;
+  height: 120px;
+  width: 85%;
   padding-top: 5%;
+  align-content: center;
+  text-align: center;
 }
 .contact-us{
 /*  height: 700px;*/
