@@ -214,7 +214,7 @@ input{
   text-align: center;
   width: 40%;
   margin-right: auto;
-  margin-left: 5%;
+  margin-left: 1%;
   height: 50px;
 
 }
@@ -247,8 +247,9 @@ input{
   opacity: 1; /* Firefox */
 }
 .submit-button{
+  display: block;
 /*margin-left: 40%;*/
-  width: 450px;
+  width: 50%;
   background-color: #03478f;
   height: 5vh;
   color: #dddddd;
