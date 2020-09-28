@@ -197,17 +197,25 @@
   padding-bottom: 3%;
   color: whitesmoke;
 }*/
+
 input{
   /*margin-left:30%;*/
   margin-top:5%;
-  margin-left:5%;
+/*  margin-left:5%;*/
   padding:8px;
-  display:block;
+/* display:block;*/
   border:none;
+  border-top-color: transparent ;
   border-bottom:1px solid #ccc;
   background-color: transparent;
 /*  float: left;*/
   color: whitesmoke;
+  align-content: center;
+  text-align: center;
+  width: 40%;
+  margin-right: auto;
+  margin-left: 5%;
+  height: 50px;
 
 }
 .message{
