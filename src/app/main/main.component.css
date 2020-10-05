@@ -160,7 +160,7 @@
  }
 
 .feedback{
-  height:330px;
+  height:auto;
   background-color: #f7f7f7;
   /*align-content: center;*/
   align-content: center;
@@ -178,9 +178,9 @@
   height: 220px;
 }*/
 .feedback-image{
-  height: 120px;
-  width: 85%;
-  padding-top: 5%;
+  height: 40%;
+  width: 45%;
+  padding-top: 2%;
   align-content: center;
   text-align: center;
 }
