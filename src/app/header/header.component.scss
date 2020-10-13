@@ -418,11 +418,12 @@ nav ul li a {
   font-size: 1em;
   text-transform: uppercase;
   text-decoration: none;
+  cursor: pointer;
 }
 nav ul li a.active,
 nav ul li a:hover {
   color: $light-brown;
-  transition: 0.5s;
+  transition: 0.8s;
 }
 .checkbtn {
   font-size: 2em;
@@ -495,6 +496,7 @@ nav ul li a:hover {
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: $white;
+  cursor: pointer!important;
 }
 }
 }

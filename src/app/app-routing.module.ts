@@ -10,7 +10,13 @@ const routes: Routes = [
     path: 'header' ,  component: HeaderComponent
   },
   {
-    path: 'main' ,  component: MainComponent
+    path: 'main' ,  component: MainComponent,
+  children: [
+    {
+      path: 'test',
+      component: MainComponent
+    }
+  ]
   },
   {
     path: 'footer' ,  component: FooterComponent
